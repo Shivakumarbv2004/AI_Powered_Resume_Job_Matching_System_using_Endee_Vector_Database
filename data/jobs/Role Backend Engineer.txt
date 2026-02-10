@@ -1,0 +1,5 @@
+Role: Backend Engineer
+Requirements: Python, REST APIs, databases
+freshers
+2025-26 batch
+location: Banglore chennai
